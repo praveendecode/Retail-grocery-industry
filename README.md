@@ -13,20 +13,24 @@
 
 # Process Steps:
 
-    ## Exploratory Data Analysis (EDA):
-        - Conducted comprehensive data exploration.
-        - Utilized visualizations and statistics to gain insights.
+ ## Exploratory Data Analysis (EDA):
+ 
+   - Conducted comprehensive data exploration.
+   - Utilized visualizations and statistics to gain insights.
 
-    ## Data Modeling and Strategy:
-       - Developed a data modeling strategy for stock optimization.
-       - Utilized diverse machine learning algorithms.
+ ## Data Modeling and Strategy:
+ 
+   - Developed a data modeling strategy for stock optimization.
+   - Utilized diverse machine learning algorithms.
 
-    ## Model Building:
-       - Built and fine-tuned machine learning models.
+ ## Model Building:
+ 
+   - Built and fine-tuned machine learning models.
 
-    ## Machine Learning Production:
-        - Deployed models to production.
-        - Generated detailed reports for business decision-making and AI solution validation.
+ ## Machine Learning Production:
+ 
+   - Deployed models to production.
+   - Generated detailed reports for business decision-making and AI solution validation.
 
 # Conclusion:
 The Gala Groceries Data-Driven Stock Optimization Project showcases how data-driven insights and machine learning can revolutionize perishable item stocking. This collaborative effort with Cognizant resulted in enhanced decision accuracy, minimized waste, and optimized stock levels, ultimately improving the customer experience.
